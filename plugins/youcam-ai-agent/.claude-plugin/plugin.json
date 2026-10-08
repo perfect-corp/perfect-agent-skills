@@ -1,0 +1,27 @@
+{
+  "name": "youcam-ai-agent",
+  "version": "0.1.0",
+  "license": "Apache-2.0",
+  "description": "Beauty, style, and creative image workflows powered by YouCam AI Agent.",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://www.perfectcorp.com/perfectbeauty/youcam/privacy-policy",
+  "termsOfServiceUrl": "https://www.perfectcorp.com/perfectbeauty/youcam/terms-of-service",
+  "author": {
+    "name": "Perfect Corp.",
+    "url": "https://www.perfectcorp.com/"
+  },
+  "keywords": [
+    "youcam",
+    "beauty",
+    "skincare",
+    "makeup",
+    "hair",
+    "fashion",
+    "virtual try-on",
+    "image editing",
+    "image generation"
+  ],
+  "skills": [
+    "./skills/youcam-ai-agent"
+  ]
+}

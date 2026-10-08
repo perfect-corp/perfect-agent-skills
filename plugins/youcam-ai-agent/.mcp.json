@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "youcam-ai-agent": {
+      "type": "http",
+      "url": "https://mcp-agent-01.makeupar.com/mcp"
+    }
+  }
+}
